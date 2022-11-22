@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Atualmente estou trabalhando como desenvolvedor de sites como fl.<br>👯 Sempre procuro ajudo de pessoas com mais Experiências.<br>🤝Procurando colaborar e estudar sempre mais.<br>🌱 Trabalho nesse ramo há uns 3 anos, mas sempre estudando.<br>💬 Meu pseudonym é Japonês, motivo ? não sei, mas tenho 21 anos.<br>⚡ Um fato engreçado sobre mim, que prefiro py que js msm sabendo que js é melhor, haha.
+🔭 Atualmente estou trabalhando como desenvolvedor de sites como fl.<br>👯 Sempre procuro ajudo de pessoas com mais Experiências.<br>🤝Procurando colaborar e estudar sempre mais.<br>🌱 Trabalho neste ramo há uns 3 anos, mas sempre estudando.<br>💬 Meu pseudonym é Japonês, motivo ? não sei, mas tenho 21 anos.<br>⚡ Um fato engreçado sobre mim, que prefiro py que js msm sabendo que js é melhor, haha.
 
 
 ## 🌐 Socials:
